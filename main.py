@@ -18,7 +18,7 @@ class_names = ['Tomato Bacterial spot',
  'Tomato Spider mites Two spotted_spider_mite',
  'Tomato Target Spot',
  'Tomato YellowLeaf Curl Virus',
- 'Tomato Tomato mosaic virus',
+ 'Tomato mosaic virus',
  'Tomato healthy']
 
 app = FastAPI()
