@@ -17,7 +17,7 @@ class_names = ['Tomato Bacterial spot',
  'Tomato Septoria leaf spot',
  'Tomato Spider mites Two spotted_spider_mite',
  'Tomato Target Spot',
- 'Tomato Tomato YellowLeaf Curl Virus',
+ 'Tomato YellowLeaf Curl Virus',
  'Tomato Tomato mosaic virus',
  'Tomato healthy']
 
